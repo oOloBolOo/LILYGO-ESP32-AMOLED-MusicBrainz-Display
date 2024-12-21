@@ -2,7 +2,7 @@
 Display now playing song from MusicBrainz on LILYGO ESP32 AMOLED. 
 
 # Showcase
-<video src="media/showcase.mp4">
+<video src="media/showcase.mp4"></video>
 
 # Features
 - Retrieves metadata for the currently playing song using the ListenBrainz API.
