@@ -2,7 +2,7 @@
 Display now playing song from MusicBrainz on LILYGO ESP32 AMOLED. 
 
 # Showcase
-<video src="media/showcase.mp4"></video>
+<video src="media/showcase.mp4">showcase of changing track</video>
 
 # Features
 - Retrieves metadata for the currently playing song using the ListenBrainz API.
@@ -13,7 +13,7 @@ Display now playing song from MusicBrainz on LILYGO ESP32 AMOLED.
 [lilygo AMOLED board](https://lilygo.cc/products/t-display-s3-amoled?variant=43506902335669)
 
 # what is it using
-https://github.com/Bodmer/TJpg_Decoder Lib + LittleFS web example
-https://github.com/Xinyuan-LilyGO/T-Display-S3-AMOLED AMOLED drivers + platformio board
-https://arduinojson.org/ Lib
-https://github.com/Bodmer/TFT_eSPI Lib
+- https://github.com/Bodmer/TJpg_Decoder Lib + LittleFS web example
+- https://github.com/Xinyuan-LilyGO/T-Display-S3-AMOLED AMOLED drivers + platformio board
+- https://arduinojson.org/ Lib
+- https://github.com/Bodmer/TFT_eSPI Lib
